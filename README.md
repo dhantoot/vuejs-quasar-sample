@@ -1,4 +1,4 @@
-# Quasar App (tuorials-app)
+# Quasar App (tutorials-app)
 
 A Quasar Framework app
 
@@ -24,3 +24,7 @@ quasar build
 
 ### Customize the configuration
 See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
+
+### Setup the api
+pull this repository and run in separate terminal/cmd
+https://github.com/dhantoot/tutorials-api.git
